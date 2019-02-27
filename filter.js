@@ -10,3 +10,5 @@ function filter(array, predicate) {
 
   return result
 }
+
+module.exports = filter
